@@ -19,6 +19,6 @@ also the bin directory
 export PATH=$PATH:GOPATH/bin
 choose a namespace (github.com/claudiug) as gihub and username
 mkdir -p src/github.com/claudiug/hello
-go install src/github.com/claudiug/hello will build and create an executable program located in bin folder
+
 */
 
